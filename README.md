@@ -1,4 +1,4 @@
-# Vocabulary Management Web App
+# EnVocabulary
 
 ## 概述
 本專案是一個基於 HTML、CSS 和 JavaScript 的詞彙管理網頁應用，允許使用者 **查詢、添加、管理單字**，並存儲相關詞性、翻譯及例句。
